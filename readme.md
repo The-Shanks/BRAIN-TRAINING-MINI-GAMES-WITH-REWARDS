@@ -5,6 +5,8 @@ The Brain Training Mini-Games with Rewards smart contract provides a decentraliz
 📜 Contract Details
 Contract Address: 0x5346d1658d020D5979789F4533c90A249078D219
 Owner Address: 0xaddbcefb6065dc3677e98d25bace44ff5e5ad6e3
+![COMPLETION](https://github.com/user-attachments/assets/9e9d0d04-c942-4d65-8100-792f422a4980)
+
 
 🚀 Key Features
 Play and Earn: Earn rewards based on game performance.
